@@ -7,3 +7,7 @@ Codewars and HackerRank sandbox
 [HackerRank](https://www.hackerrank.com/griffterrycode)
 
 ![bruh](https://media.giphy.com/media/zOvBKUUEERdNm/200.gif)
+
+## Ranks 
+
+Codewars: 6kyu | HackerRank: Problem Solving 2
